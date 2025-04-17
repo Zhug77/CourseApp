@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|d:\\users\\zhug\\source\\repos\\courseapp\\courseapp\\adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|D:\\Users\\Zhug\\source\\repos\\CourseApp\\courseapp\\adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|d:\\users\\zhug\\source\\repos\\courseapp\\courseapp\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|d:\\users\\zhug\\source\\repos\\courseapp\\courseapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|D:\\Users\\Zhug\\source\\repos\\CourseApp\\courseapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|d:\\users\\zhug\\source\\repos\\courseapp\\courseapp\\adminmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\adminmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|d:\\users\\zhug\\source\\repos\\courseapp\\courseapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|d:\\users\\zhug\\source\\repos\\courseapp\\courseapp\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|d:\\users\\zhug\\source\\repos\\courseapp\\courseapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|d:\\users\\zhug\\source\\repos\\courseapp\\courseapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|D:\\Users\\Zhug\\source\\repos\\CourseApp\\courseapp\\studentmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\studentmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|d:\\users\\zhug\\source\\repos\\courseapp\\courseapp\\courseapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\courseapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|D:\\Users\\Zhug\\source\\repos\\CourseApp\\courseapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|D:\\Users\\Zhug\\source\\repos\\CourseApp\\courseapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA3C1BCA-2171-476F-87AC-9927CEF7EF08}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Form1.cs",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form1.cs",
+              "RelativeToolTip": "CourseApp\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:03:41.345Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form3.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Form3.cs",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form3.cs",
+              "RelativeToolTip": "CourseApp\\Form3.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAADwv+gAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T00:57:44.94Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Form1.Designer.cs",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form1.Designer.cs",
+              "RelativeToolTip": "CourseApp\\Form1.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:20:53.099Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminMain.cs",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\AdminMain.cs",
+              "RelativeDocumentMoniker": "CourseApp\\AdminMain.cs",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\AdminMain.cs",
+              "RelativeToolTip": "CourseApp\\AdminMain.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAcwN8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:48:52.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Form2.Designer.cs",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form2.Designer.cs",
+              "RelativeToolTip": "CourseApp\\Form2.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:52:05.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form2.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Form2.cs",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form2.cs",
+              "RelativeToolTip": "CourseApp\\Form2.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAQwMoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:45:36.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseApp.csproj",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\CourseApp.csproj",
+              "RelativeDocumentMoniker": "CourseApp\\CourseApp.csproj",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\CourseApp.csproj",
+              "RelativeToolTip": "CourseApp\\CourseApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T10:44:32.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminMain.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\AdminMain.Designer.cs",
+              "RelativeDocumentMoniker": "CourseApp\\AdminMain.Designer.cs",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\AdminMain.Designer.cs",
+              "RelativeToolTip": "CourseApp\\AdminMain.Designer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwHQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:29:40.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Form3.Designer.cs",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form3.Designer.cs",
+              "RelativeToolTip": "CourseApp\\Form3.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAYwOYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T00:58:01.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\AdminMain.cs",
+              "RelativeDocumentMoniker": "CourseApp\\AdminMain.cs",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\AdminMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CourseApp\\AdminMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:18:48.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Form1.cs",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CourseApp\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:00:43.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\StudentMain.cs",
+              "RelativeDocumentMoniker": "CourseApp\\StudentMain.cs",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\StudentMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CourseApp\\StudentMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:17:27.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form3.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Form3.cs",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form3.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CourseApp\\Form3.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:04:22.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form2.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Form2.cs",
+              "ToolTip": "D:\\Users\\Zhug\\source\\repos\\CourseApp\\CourseApp\\Form2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CourseApp\\Form2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:44:49.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
