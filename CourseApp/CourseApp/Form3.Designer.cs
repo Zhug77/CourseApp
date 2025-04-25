@@ -232,7 +232,7 @@
             Controls.Add(label1);
             Controls.Add(textBox1);
             Name = "Form3";
-            Text = "Form3";
+            Text = "学生注册";
             ResumeLayout(false);
             PerformLayout();
         }

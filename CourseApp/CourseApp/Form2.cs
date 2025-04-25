@@ -40,26 +40,24 @@ namespace CourseApp
         }
 
 
-        // 发送验证码按钮功能绑定
+
         private void button0_Click(object sender, EventArgs e)
         {
             string userEmail = textBox2.Text; // 获取用户输入的邮箱地址
             email = textBox2.Text.Trim();
-            string verificationCode = GenerateVerificationCode(); // 生成验证码
-            // 发送验证码到用户邮箱
+            string verificationCode = GenerateVerificationCode();
             SendVerificationCode(userEmail, verificationCode);
         }
 
-        // 验证码随机生成
+        
         private string GenerateVerificationCode()
         {
-            // 生成一个六位数的随机验证码
             Random random = new Random();
             code = random.Next(000000, 999999).ToString();
             return code;
         }
 
-        // 发送验证码至邮箱
+
         private void SendVerificationCode(string toEmail, string verificationCode)
         {
 
@@ -79,8 +77,8 @@ namespace CourseApp
                 SmtpClient smtpClient = new SmtpClient("smtp.163.com")
                 {
                     Port = 25, // 使用25端口进行发送 测了587 994 465都不行
-                    Credentials = new NetworkCredential(fromEmail, fromPassword), // 邮箱认证
-                    EnableSsl = true,  // 启用 SSL 加密
+                    Credentials = new NetworkCredential(fromEmail, fromPassword), 
+                    EnableSsl = true,  // SSL加密
                 };
 
                 // 创建邮件内容
@@ -98,12 +96,12 @@ namespace CourseApp
                 // 发送邮件
                 smtpClient.Send(mailMessage);
 
-                // 提示用户验证码已发送
+                
                 MessageBox.Show("验证码已发送到您的邮箱！");
             }
             catch (Exception ex)
             {
-                // 如果发生错误，显示错误信息
+                
                 MessageBox.Show($"发送验证码失败: {ex.Message}");
             }
         }

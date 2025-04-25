@@ -192,8 +192,8 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(textBox1);
-            Name = "Form2";
-            Text = "Form2";
+            Name = "管理员注册";
+            Text = "管理员注册";
             ResumeLayout(false);
             PerformLayout();
         }
